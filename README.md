@@ -10,13 +10,6 @@
 
 </div>
 
----
-
-### 💼 Professional Summary
-React Native Engineer with 3.3+ years of full-time professional experience (plus a 7-month industrial training) building high-performance, production-grade mobile applications on React Native's New Architecture (Fabric, TurboModules, JSI). Specialized in real-time live location tracking (Google Maps SDK), WebRTC audio calling, and Socket.io real-time communication. Deep expertise in performance engineering—building custom native modules built with NitroModules (JSI-based codegen), implemented natively in Kotlin and Swift, native bridge optimization, and memory management. Independently designed, built, and published production native SDKs to eliminate major third-party API dependencies ahead of production application launches.
-
----
-
 ### 🚀 Custom Native SDK Ecosystem (Free vs. Pro)
 
 #### 1. Public Free Open Source Packages (Published on npm)
