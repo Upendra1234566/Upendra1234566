@@ -7,6 +7,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/upendra-singh-735029202/)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nitrofusedlocationsupport@gmail.com)
 [<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />](https://www.npmjs.com/~upendra1234566)
+[<img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sponsors/Upendra1234566)
 
 </div>
 
@@ -20,5 +21,3 @@
 Enterprise-grade closed-source modules built independently outside of employer scope and licensed commercially to businesses:
 * **`react-native-nitro-fused-location-pro`** – Enterprise-grade background tracking featuring kill-proof foreground service tracking (survives app kills on Android and iOS), native geofencing, Kalman filter-based GPS smoothing, activity recognition, auto-start on boot, GPX trip export, offline local Room database queuing with automated WebSocket sync, and 100% on-device **Driving Intelligence & Crash Detection**. For licensing, contact: `nitrofusedlocationsupport@gmail.com`.
 * **`react-native-nitro-open-map-pro`** – Advanced native map SDK featuring clustered markers, live vehicle tracking layer for ride-hailing/delivery use cases, native OSRM turn-by-turn routing, and offline map region downloads, all rendered natively via JSI.
-
-
