@@ -3,11 +3,11 @@
 # Hi there, I'm Upendra Singh! 👋
 
 ### **React Native Engineer** | **Native Modules (JSI, NitroModules)** | **Kotlin & Swift** | **Real-Time Systems**
-
+[<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />](https://github.com/sponsors/Upendra1234566)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/upendra-singh-735029202/)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nitrofusedlocationsupport@gmail.com)
 [<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />](https://www.npmjs.com/~upendra1234566)
-[<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />](https://github.com/sponsors/Upendra1234566)
+
 
 </div>
 
