@@ -21,15 +21,4 @@ Enterprise-grade closed-source modules built independently outside of employer s
 * **`react-native-nitro-fused-location-pro`** – Enterprise-grade background tracking featuring kill-proof foreground service tracking (survives app kills on Android and iOS), native geofencing, Kalman filter-based GPS smoothing, activity recognition, auto-start on boot, GPX trip export, offline local Room database queuing with automated WebSocket sync, and 100% on-device **Driving Intelligence & Crash Detection**. For licensing, contact: `nitrofusedlocationsupport@gmail.com`.
 * **`react-native-nitro-open-map-pro`** – Advanced native map SDK featuring clustered markers, live vehicle tracking layer for ride-hailing/delivery use cases, native OSRM turn-by-turn routing, and offline map region downloads, all rendered natively via JSI.
 
----
-
-### 🛠️ Technical Skills
-* **Languages & Core:** JavaScript (ES6+), TypeScript, React Native (New Architecture), React Hooks, Context API
-* **Native & Performance:** NitroModules, TurboModules, JSI (JavaScript Interface), Native Bridge Performance Profiling, Modular Architecture, Offline-First Design
-* **Native Platform Languages:** Kotlin (Android), Swift (iOS)
-* **Real-Time Communication:** Socket.io (real-time chat), WebRTC (audio calling), Firebase Cloud Messaging (push notifications)
-* **Location & Maps:** Google Maps SDK, MapLibre Native, live driver tracking, geofencing, Places API, background geolocation optimization
-* **State Management & Storage:** Redux, Zustand, MMKV, SQLite, Client-Side Caching, Offline Data Persistence
-* **Background Execution:** Headless JS, foreground services
-* **Build, Release & DevOps:** Xcode, CocoaPods, Android Studio, Gradle, App Store Connect, Google Play Console, Fastlane, Bitrise, GitHub Actions
 
