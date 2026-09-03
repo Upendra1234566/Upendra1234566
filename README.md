@@ -1,4 +1,3 @@
-Theek hai, bina kisi icon ke plain text format me profile README ye raha. Aap ise apni GitHub repository me copy-paste kar sakte hain:
 
 Upendra Singh
 React Native Engineer with 3.3+ years of professional experience building high-performance mobile applications using React Native's New Architecture (Fabric, TurboModules, JSI). Specializing in real-time location tracking, WebRTC, custom native modules in Kotlin and Swift, and offline-first mobile systems.
